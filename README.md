@@ -1,4 +1,8 @@
 # class1exercise
-repository to solve exercises for class1
-
-This might Cause a conflick between local and online
+# pyneta
+Test pyNet Repository
+Some additional information on this repository.
+Create a merge conflict.
+More changes to readme.
+------------------
+                       
